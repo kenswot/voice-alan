@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/voice-alan/static/css/main.3c2fef4c.chunk.css",
+    "main.js": "/voice-alan/static/js/main.cdf9d289.chunk.js",
+    "main.js.map": "/voice-alan/static/js/main.cdf9d289.chunk.js.map",
+    "runtime-main.js": "/voice-alan/static/js/runtime-main.11dad3bb.js",
+    "runtime-main.js.map": "/voice-alan/static/js/runtime-main.11dad3bb.js.map",
+    "static/js/2.2bad6f1e.chunk.js": "/voice-alan/static/js/2.2bad6f1e.chunk.js",
+    "static/js/2.2bad6f1e.chunk.js.map": "/voice-alan/static/js/2.2bad6f1e.chunk.js.map",
+    "index.html": "/voice-alan/index.html",
+    "precache-manifest.e0054830551cad465289a7c5634c9895.js": "/voice-alan/precache-manifest.e0054830551cad465289a7c5634c9895.js",
+    "service-worker.js": "/voice-alan/service-worker.js",
+    "static/css/main.3c2fef4c.chunk.css.map": "/voice-alan/static/css/main.3c2fef4c.chunk.css.map",
+    "static/js/2.2bad6f1e.chunk.js.LICENSE.txt": "/voice-alan/static/js/2.2bad6f1e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11dad3bb.js",
+    "static/js/2.2bad6f1e.chunk.js",
+    "static/css/main.3c2fef4c.chunk.css",
+    "static/js/main.cdf9d289.chunk.js"
+  ]
+}
